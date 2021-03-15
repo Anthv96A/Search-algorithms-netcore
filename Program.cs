@@ -8,15 +8,15 @@ namespace Search_algorithms
         static void Main(string[] args)
         {
 
-            /*               1
-             *             / | \ \
-             *            2  5  9  13
-             *           /  / \   \
-             *          3  6   8   10
-             *         /  /       /   \  
-             *        4  7       11   12
-             *
-             * /
+            // *               1
+            // *             / | \ \
+            // *            2  5  9  13
+            // *           /  / \   \
+            // *          3  6   8   10
+            // *         /  /       /   \  
+            // *        4  7       11   12
+            // *
+            // * 
   
             var graph = new Graph();
             graph.AddNode(1, 2);
