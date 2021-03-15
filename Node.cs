@@ -1,4 +1,4 @@
-namespace brute_force_algo
+namespace Search_algorithms
 {
     public class Node
     {
